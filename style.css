@@ -3,13 +3,22 @@ body {
 }
 
 table {
-    font-family: arial, sans-serif;
+    font-family: Bradley Hand ITC;
     border-collapse: collapse;
-    width: 50%;
+    width: 10%;
 }
   
 td, th {
     border: 1px solid #dddddd;
     text-align: justify;
     padding: 8px;
+    font-size: large;
+}
+
+#questions {
+    border: 1px solid #dddddd;
+    text-align: justify;
+    padding: 8px;
+    font-size: large;
+    width: 30%;
 }
