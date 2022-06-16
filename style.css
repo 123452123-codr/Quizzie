@@ -4,20 +4,20 @@ body {
 }
 
 table {
-    font-family: Bradley Hand ITC;
+    font-family: Georgia;
     border-collapse: collapse;
     width: 10%;
 }
   
 td, th {
-    border: 1px solid #dddddd;
+    border: 2px solid black;
     text-align: justify;
     padding: 8px;
     font-size: large;
 }
 
 #questions {
-    border: 1px solid green;
+    border: 2px solid black;
     text-align: justify;
     padding: 8px;
     font-size: large;
