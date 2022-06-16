@@ -9,12 +9,7 @@ table {
     width: 10%;
 }
   
-td, th {
-    text-align: justify;
-    padding: 8px;
-    font-size: large;
-}
-
+td, th 
 #questions {
     border: 2px solid black;
     text-align: justify;
