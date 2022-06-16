@@ -17,7 +17,7 @@ td, th {
 }
 
 #questions {
-    border: 1px solid #dddddd;
+    border: 1px solid green;
     text-align: justify;
     padding: 8px;
     font-size: large;
