@@ -22,3 +22,11 @@ td, th {
     font-size: large;
     width: 30%;
 }
+
+#serial {
+    border: 2px solid black;
+    text-align: justify;
+    padding: 8px;
+    font-size: large;
+    width: 30%;
+}
