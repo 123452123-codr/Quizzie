@@ -11,7 +11,7 @@ table {
   
 td, th 
 #questions {
-    border: 2px solid black;
+    border: 1px burlywood;
     text-align: justify;
     padding: 8px;
     font-size: large;
@@ -19,7 +19,7 @@ td, th
 }
 
 #serial {
-    border: 2px solid black;
+    border: 1px burlywood;
     text-align: justify;
     padding: 8px;
     font-size: large;
